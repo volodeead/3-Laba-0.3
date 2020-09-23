@@ -1,0 +1,7 @@
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 4. Opinion Poll\bin\Debug\Problem_4.Opinion_Poll.exe.config
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 4. Opinion Poll\bin\Debug\Problem_4.Opinion_Poll.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 4. Opinion Poll\bin\Debug\Problem_4.Opinion_Poll.pdb
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 4. Opinion Poll\obj\Debug\Problem 4. Opinion Poll.csprojAssemblyReference.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 4. Opinion Poll\obj\Debug\Problem 4. Opinion Poll.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 4. Opinion Poll\obj\Debug\Problem_4.Opinion_Poll.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 4. Opinion Poll\obj\Debug\Problem_4.Opinion_Poll.pdb

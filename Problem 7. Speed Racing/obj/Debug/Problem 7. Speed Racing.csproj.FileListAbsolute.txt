@@ -1,0 +1,7 @@
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 7. Speed Racing\bin\Debug\Problem_7.Speed_Racing.exe.config
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 7. Speed Racing\bin\Debug\Problem_7.Speed_Racing.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 7. Speed Racing\bin\Debug\Problem_7.Speed_Racing.pdb
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 7. Speed Racing\obj\Debug\Problem 7. Speed Racing.csprojAssemblyReference.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 7. Speed Racing\obj\Debug\Problem 7. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 7. Speed Racing\obj\Debug\Problem_7.Speed_Racing.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 7. Speed Racing\obj\Debug\Problem_7.Speed_Racing.pdb

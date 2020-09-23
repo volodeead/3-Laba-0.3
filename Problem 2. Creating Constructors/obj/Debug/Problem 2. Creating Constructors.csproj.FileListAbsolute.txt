@@ -1,0 +1,7 @@
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 2. Creating Constructors\bin\Debug\Problem_2.Creating_Constructors.exe.config
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 2. Creating Constructors\bin\Debug\Problem_2.Creating_Constructors.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 2. Creating Constructors\bin\Debug\Problem_2.Creating_Constructors.pdb
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 2. Creating Constructors\obj\Debug\Problem 2. Creating Constructors.csprojAssemblyReference.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 2. Creating Constructors\obj\Debug\Problem 2. Creating Constructors.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 2. Creating Constructors\obj\Debug\Problem_2.Creating_Constructors.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 2. Creating Constructors\obj\Debug\Problem_2.Creating_Constructors.pdb

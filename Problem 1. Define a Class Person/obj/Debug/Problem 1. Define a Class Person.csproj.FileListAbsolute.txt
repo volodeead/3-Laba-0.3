@@ -1,0 +1,7 @@
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 1. Define a Class Person\bin\Debug\Problem_1.Define_a_Class_Person.exe.config
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 1. Define a Class Person\bin\Debug\Problem_1.Define_a_Class_Person.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 1. Define a Class Person\bin\Debug\Problem_1.Define_a_Class_Person.pdb
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 1. Define a Class Person\obj\Debug\Problem 1. Define a Class Person.csprojAssemblyReference.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 1. Define a Class Person\obj\Debug\Problem 1. Define a Class Person.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 1. Define a Class Person\obj\Debug\Problem_1.Define_a_Class_Person.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 1. Define a Class Person\obj\Debug\Problem_1.Define_a_Class_Person.pdb
