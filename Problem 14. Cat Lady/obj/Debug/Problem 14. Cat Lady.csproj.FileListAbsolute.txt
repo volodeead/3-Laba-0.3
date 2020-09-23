@@ -1,0 +1,7 @@
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 14. Cat Lady\bin\Debug\Problem_14.Cat_Lady.exe.config
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 14. Cat Lady\bin\Debug\Problem_14.Cat_Lady.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 14. Cat Lady\bin\Debug\Problem_14.Cat_Lady.pdb
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 14. Cat Lady\obj\Debug\Problem 14. Cat Lady.csprojAssemblyReference.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 14. Cat Lady\obj\Debug\Problem 14. Cat Lady.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 14. Cat Lady\obj\Debug\Problem_14.Cat_Lady.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 14. Cat Lady\obj\Debug\Problem_14.Cat_Lady.pdb

@@ -1,0 +1,7 @@
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 9. Rectangle Intersection\bin\Debug\Problem_9.Rectangle_Intersection.exe.config
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 9. Rectangle Intersection\bin\Debug\Problem_9.Rectangle_Intersection.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 9. Rectangle Intersection\bin\Debug\Problem_9.Rectangle_Intersection.pdb
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 9. Rectangle Intersection\obj\Debug\Problem 9. Rectangle Intersection.csprojAssemblyReference.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 9. Rectangle Intersection\obj\Debug\Problem 9. Rectangle Intersection.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 9. Rectangle Intersection\obj\Debug\Problem_9.Rectangle_Intersection.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 9. Rectangle Intersection\obj\Debug\Problem_9.Rectangle_Intersection.pdb

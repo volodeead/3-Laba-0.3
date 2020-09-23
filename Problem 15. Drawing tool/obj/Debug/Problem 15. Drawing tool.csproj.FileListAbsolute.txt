@@ -1,0 +1,7 @@
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 15. Drawing tool\bin\Debug\Problem_15.Drawing_tool.exe.config
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 15. Drawing tool\bin\Debug\Problem_15.Drawing_tool.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 15. Drawing tool\bin\Debug\Problem_15.Drawing_tool.pdb
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 15. Drawing tool\obj\Debug\Problem 15. Drawing tool.csprojAssemblyReference.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 15. Drawing tool\obj\Debug\Problem 15. Drawing tool.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 15. Drawing tool\obj\Debug\Problem_15.Drawing_tool.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 15. Drawing tool\obj\Debug\Problem_15.Drawing_tool.pdb

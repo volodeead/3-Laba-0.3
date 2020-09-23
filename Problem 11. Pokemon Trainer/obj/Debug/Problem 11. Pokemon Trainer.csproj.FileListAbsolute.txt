@@ -1,0 +1,7 @@
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 11. Pokemon Trainer\bin\Debug\Problem_11.Pokemon_Trainer.exe.config
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 11. Pokemon Trainer\bin\Debug\Problem_11.Pokemon_Trainer.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 11. Pokemon Trainer\bin\Debug\Problem_11.Pokemon_Trainer.pdb
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 11. Pokemon Trainer\obj\Debug\Problem 11. Pokemon Trainer.csprojAssemblyReference.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 11. Pokemon Trainer\obj\Debug\Problem 11. Pokemon Trainer.csproj.CoreCompileInputs.cache
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 11. Pokemon Trainer\obj\Debug\Problem_11.Pokemon_Trainer.exe
+C:\Users\CiCadmin\Desktop\Томна ООП\0.3.ООП\Defining Classes\Problem 11. Pokemon Trainer\obj\Debug\Problem_11.Pokemon_Trainer.pdb
